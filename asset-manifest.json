@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://shivam1300.github.io/csb-50kdit/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://shivam1300.github.io/csb-50kdit/static/js/main.ede1f391.chunk.js",
+    "main.js.map": "https://shivam1300.github.io/csb-50kdit/static/js/main.ede1f391.chunk.js.map",
+    "runtime-main.js": "https://shivam1300.github.io/csb-50kdit/static/js/runtime-main.1567f6a9.js",
+    "runtime-main.js.map": "https://shivam1300.github.io/csb-50kdit/static/js/runtime-main.1567f6a9.js.map",
+    "static/js/2.db8593eb.chunk.js": "https://shivam1300.github.io/csb-50kdit/static/js/2.db8593eb.chunk.js",
+    "static/js/2.db8593eb.chunk.js.map": "https://shivam1300.github.io/csb-50kdit/static/js/2.db8593eb.chunk.js.map",
+    "index.html": "https://shivam1300.github.io/csb-50kdit/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://shivam1300.github.io/csb-50kdit/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.db8593eb.chunk.js.LICENSE.txt": "https://shivam1300.github.io/csb-50kdit/static/js/2.db8593eb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1567f6a9.js",
+    "static/js/2.db8593eb.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.ede1f391.chunk.js"
+  ]
+}
